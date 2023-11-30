@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Cardápio Digital - Aplicação Frontend
+Catalogo Digital - Aplicação Frontend
 Este projeto é um simples simples protótipo de um Catalogo Digital. A aplicação foi desenvolvida usando React, Typescript e React Query.
 
  
