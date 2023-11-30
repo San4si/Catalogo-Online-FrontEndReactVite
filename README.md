@@ -21,10 +21,10 @@ npm run dev
 🔧 Compilação  
 Para compilar a aplicação para produção, execute o seguinte comando:  
 
-npm run build  
+npm run build   
 Isso irá gerar uma versão otimizada da aplicação na pasta dist.  
 
-🫂 Integração com Backend
+🫂 Integração com Backend  
 Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente.  
 
 [👉 Link do repositório]: https://github.com/San4si/Catalogo-Online-Backend-JavaSpring  
