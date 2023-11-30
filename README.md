@@ -1,30 +1,34 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cardápio Digital - Aplicação Frontend
+Este projeto é um simples simples protótipo de um Catalogo Digital. A aplicação foi desenvolvida usando React, Typescript e React Query.
 
-Currently, two official plugins are available:
+ 
+💻 Requisitos
+Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Instalando
+Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal
 
-## Expanding the ESLint configuration
+git clone https://github.com/San4si/Catalogo-Online-FrontEndReactVite
+cd Catalogo-Online-FrontEndReactVite
+Para instalar as dependências, execute o seguinte comando:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+npm install
+Por fim, para executar o projeto basta rodar o seguinte:
 
-- Configure the top-level `parserOptions` property like this:
+npm run dev
+🔧 Compilação
+Para compilar a aplicação para produção, execute o seguinte comando:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+npm run build
+Isso irá gerar uma versão otimizada da aplicação na pasta dist.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+🫂 Integração com Backend
+Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente.
+
+[👉 Link do repositório]: https://github.com/San4si/Catalogo-Online-Backend-JavaSpring
+
+Minhas Redes
+[Meu site:]: https://san4si.github.io/portifolio/ 
+[linkedin]: https://www.linkedin.com/in/dev-san/
